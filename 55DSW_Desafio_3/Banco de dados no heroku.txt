@@ -1,0 +1,6 @@
+Colar no projeto em:
+Outros Códigos-fonte => src/main/resources => pacote default => application.properties
+
+spring.datasource.url=jdbc:postgresql://localhost:5432/meudb?createDataseIfnotExist=true&useSSL=false
+spring.datasource.username=postgres
+spring.datasource.password=root
